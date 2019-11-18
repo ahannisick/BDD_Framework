@@ -1,0 +1,94 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 5,
+        "name": "Login Process",
+        "description": "",
+        "id": "facebook;login-process",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 38995226839,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is on the login page",
+            "match": {
+              "location": "FacebookLogin_Steps.user_is_on_the_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 306325906,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user enters a valid username",
+            "match": {
+              "location": "FacebookLogin_Steps.user_enters_a_valid_username()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 160468824,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user enters a valid password",
+            "match": {
+              "location": "FacebookLogin_Steps.user_enters_a_valid_password()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8796470753,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user clicks the sign in button",
+            "match": {
+              "location": "FacebookLogin_Steps.user_clicks_the_sign_in_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 208299082,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user sign in is complete",
+            "match": {
+              "location": "FacebookLogin_Steps.user_sign_in_is_complete()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@FacebookLogin"
+          }
+        ]
+      }
+    ],
+    "name": "Facebook",
+    "description": "",
+    "id": "facebook",
+    "keyword": "Feature",
+    "uri": "FacebookLogin.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@FBTestSuite"
+      }
+    ]
+  }
+]

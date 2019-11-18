@@ -1,0 +1,16 @@
+2019-11-18 08:15:41.718 [main] INFO  pages.FacebookLogin - PASS - HomePage Land Success.
+2019-11-18 08:16:09.455 [main] INFO  pages.FacebookLogin - PASS - Username Field is Displayed.
+2019-11-18 08:16:09.474 [main] INFO  pages.FacebookLogin - INFO - Username Field Empty By Default.
+2019-11-18 08:16:09.570 [main] INFO  pages.FacebookLogin - PASS - Username Field Click Success.
+2019-11-18 08:16:09.592 [main] INFO  pages.FacebookLogin - PASS - Username Field Clear Success.
+2019-11-18 08:16:09.719 [main] INFO  pages.FacebookLogin - PASS - Username Field Send Keys Success.
+2019-11-18 08:16:09.742 [main] INFO  pages.FacebookLogin - PASS - Password Field is Displayed.
+2019-11-18 08:16:09.754 [main] INFO  pages.FacebookLogin - INFO - Password Field Empty By Default.
+2019-11-18 08:16:09.785 [main] INFO  pages.FacebookLogin - PASS - Password Field Click Success.
+2019-11-18 08:16:09.828 [main] INFO  pages.FacebookLogin - PASS - Password Field Clear Success.
+2019-11-18 08:16:09.881 [main] INFO  pages.FacebookLogin - PASS - Password Field Send Keys Success.
+2019-11-18 08:16:09.906 [main] INFO  pages.FacebookLogin - PASS - Login Button is Displayed
+2019-11-18 08:16:18.679 [main] INFO  pages.FacebookLogin - PASS - Login Button Click Success.
+2019-11-18 08:16:18.759 [main] INFO  pages.FacebookLogin - PASS - Facebook Homepage Landing Success.
+2019-11-18 08:16:18.770 [main] INFO  pages.FacebookLogin - PASS - Facebook User Icon Title: Selenium is Correct.
+2019-11-18 08:16:18.770 [main] INFO  pages.FacebookLogin - SCENARIO PASS - Facebook Login Success!
